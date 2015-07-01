@@ -1,0 +1,15 @@
+C:\Users\CSJ\Desktop\SimulatorProject\内网\ww\Model\bin\Debug\Model.dll
+C:\Users\CSJ\Desktop\SimulatorProject\内网\ww\Model\bin\Debug\Model.pdb
+C:\Users\CSJ\Desktop\SimulatorProject\内网\ww\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\CSJ\Desktop\SimulatorProject\内网\ww\Model\obj\Debug\Model.dll
+C:\Users\CSJ\Desktop\SimulatorProject\内网\ww\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\ww\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\ww\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\ww\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ww\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\ww\Model\obj\Debug\Model.pdb
+F:\张岩\张岩工作\主要项目报告\电子防盗锁\服务器备份\0604\外网\ww\Model\bin\Debug\Model.dll
+F:\张岩\张岩工作\主要项目报告\电子防盗锁\服务器备份\0604\外网\ww\Model\bin\Debug\Model.pdb
+F:\张岩\张岩工作\主要项目报告\电子防盗锁\服务器备份\0604\外网\ww\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\张岩\张岩工作\主要项目报告\电子防盗锁\服务器备份\0604\外网\ww\Model\obj\Debug\Model.dll
+F:\张岩\张岩工作\主要项目报告\电子防盗锁\服务器备份\0604\外网\ww\Model\obj\Debug\Model.pdb

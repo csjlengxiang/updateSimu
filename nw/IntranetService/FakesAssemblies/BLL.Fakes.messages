@@ -1,0 +1,21 @@
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.CZRYService 生成存根: 类型对 exported or assembly(BLL.Fakes) 不可见。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.ExcelHelper 生成存根: 类型对 exported or assembly(BLL.Fakes) 不可见。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.GJService 生成存根: 类型对 exported or assembly(BLL.Fakes) 不可见。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.JSLSService 生成存根: 类型对 exported or assembly(BLL.Fakes) 不可见。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.JSService 生成存根: 类型对 exported or assembly(BLL.Fakes) 不可见。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.PositionService 生成存根: 类型对 exported or assembly(BLL.Fakes) 不可见。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.PSService 生成存根: 类型对 exported or assembly(BLL.Fakes) 不可见。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.csjSerialPortDataReceivedBuf 生成存根: 类型已密封。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.csjSerialPortDataReceivedStr 生成存根: 类型已密封。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.UdpServiceReciveDelege 生成存根: 类型已密封。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.CZRYService 生成填充码: 类型对 exported or assembly(BLL.Fakes) 不可见。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.ExcelHelper 生成填充码: 类型对 exported or assembly(BLL.Fakes) 不可见。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.GJService 生成填充码: 类型对 exported or assembly(BLL.Fakes) 不可见。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.JSLSService 生成填充码: 类型对 exported or assembly(BLL.Fakes) 不可见。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.JSService 生成填充码: 类型对 exported or assembly(BLL.Fakes) 不可见。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.PositionService 生成填充码: 类型对 exported or assembly(BLL.Fakes) 不可见。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.PSService 生成填充码: 类型对 exported or assembly(BLL.Fakes) 不可见。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.SendService+BalanceResult 生成填充码: 类型对 exported or assembly(BLL.Fakes) 不可见。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.csjSerialPortDataReceivedBuf 生成填充码: 类型是一个委托。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.csjSerialPortDataReceivedStr 生成填充码: 类型是一个委托。
+C:\Users\csj\Desktop\SimulatorProject\Simulator\IntranetService\Fakes\BLL.fakes : warning : 无法为 BLL.UdpServiceReciveDelege 生成填充码: 类型是一个委托。

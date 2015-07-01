@@ -1,0 +1,10 @@
+C:\Users\CSJ\Desktop\SimulatorProject\内网\ww\Model\bin\Release\Model.dll
+C:\Users\CSJ\Desktop\SimulatorProject\内网\ww\Model\bin\Release\Model.pdb
+C:\Users\CSJ\Desktop\SimulatorProject\内网\ww\Model\obj\Release\Model.dll
+C:\Users\CSJ\Desktop\SimulatorProject\内网\ww\Model\obj\Release\Model.pdb
+C:\Users\CSJ\Desktop\SimulatorProject\内网\ww\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+E:\ww\Model\bin\Release\Model.dll
+E:\ww\Model\bin\Release\Model.pdb
+E:\ww\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+E:\ww\Model\obj\Release\Model.dll
+E:\ww\Model\obj\Release\Model.pdb

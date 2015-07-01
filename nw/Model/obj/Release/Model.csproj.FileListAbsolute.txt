@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\nw\Model\bin\Release\Model.dll
+C:\Users\Administrator\Desktop\nw\Model\bin\Release\Model.pdb
+C:\Users\Administrator\Desktop\nw\Model\obj\Release\Model.dll
+C:\Users\Administrator\Desktop\nw\Model\obj\Release\Model.pdb
+D:\nw\Model\bin\Release\Model.dll
+D:\nw\Model\bin\Release\Model.pdb
+D:\nw\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+D:\nw\Model\obj\Release\Model.dll
+D:\nw\Model\obj\Release\Model.pdb

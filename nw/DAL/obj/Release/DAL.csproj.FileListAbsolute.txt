@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\nw\DAL\bin\Release\DAL.dll
+C:\Users\Administrator\Desktop\nw\DAL\bin\Release\DAL.pdb
+C:\Users\Administrator\Desktop\nw\DAL\bin\Release\Model.dll
+C:\Users\Administrator\Desktop\nw\DAL\bin\Release\Model.pdb
+C:\Users\Administrator\Desktop\nw\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\nw\DAL\obj\Release\DAL.dll
+C:\Users\Administrator\Desktop\nw\DAL\obj\Release\DAL.pdb
+D:\nw\DAL\bin\Release\DAL.dll
+D:\nw\DAL\bin\Release\DAL.pdb
+D:\nw\DAL\bin\Release\Model.dll
+D:\nw\DAL\bin\Release\Model.pdb
+D:\nw\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\nw\DAL\obj\Release\DAL.dll
+D:\nw\DAL\obj\Release\DAL.pdb
